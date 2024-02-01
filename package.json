@@ -1,0 +1,19 @@
+{
+  "name": "solidstart-server-actions-repro",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/meta": "^0.29.2",
+    "@solidjs/router": "^0.10.10",
+    "@solidjs/start": "^0.4.11",
+    "solid-js": "^1.8.12",
+    "vinxi": "^0.1.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
